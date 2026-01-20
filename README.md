@@ -68,6 +68,7 @@ npm run dev
 | [Technical Architecture](./docs/TECHNICAL.md) | Project structure and architecture |
 | [Database Schema](./docs/DATABASE.md) | Database tables and relationships |
 | [API Integration](./docs/API.md) | Perplexity AI integration details |
+| [Documenting Prompts](./docs/PROMPTS.md) | **Critical:** Prompt Engineering Guidelines & strict parsing rules |
 | [Contributing](./CONTRIBUTING.md) | Contribution guidelines |
 
 ## 📜 License
