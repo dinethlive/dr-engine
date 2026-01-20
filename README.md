@@ -1,4 +1,4 @@
-# [dr]Engine
+# [dr]engine
 
 > **Deep Research Engine** - An AI-powered research framework generator that creates comprehensive research questions and answers using Perplexity AI.
 
@@ -9,11 +9,12 @@
 ## ✨ Features
 
 - **AI-Powered Research Generation** - Generate structured research frameworks with themed questions
+- **Bulk Answer Generation** - Automatic "Generate All Answers" feature for seamless research completion
 - **Multiple AI Models** - Support for Sonar, Sonar Pro, Sonar Reasoning Pro, and Deep Research
 - **Customizable Prompts** - Create and manage your own prompt templates
 - **Section-by-Section Answers** - Generate detailed answers for each research section
-- **Usage Tracking** - Monitor API usage and costs
-- **Offline Storage** - All data stored locally using IndexedDB
+- **Advanced Usage Tracking** - Monitor API usage with date/model filters and CSV export
+- **Local & Private** - Everything runs on your device; data is stored locally using IndexedDB
 - **Export Options** - Download research notes as markdown files
 
 ## 🛠️ Technology Stack
